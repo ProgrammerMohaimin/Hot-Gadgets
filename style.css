@@ -1,0 +1,53 @@
+
+.container{
+    margin-bottom: 100px;
+}
+
+.naveber-bg-color{
+    background-color: white;
+}
+.home-links{
+    margin-left: 60%;
+    
+}
+.col-5{
+    margin-top: 150px;
+
+}
+.col-7{
+    padding-left: 130px;
+}
+.buy-now-button{
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+#carousel-bg-images{
+    height: 600px;
+    background-image: url(hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+}   
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.see-all{
+    text-align: right;
+    color: orange;
+    font-size: 22px;
+    
+}
+.see-all-link{
+    text-decoration: none;
+}
