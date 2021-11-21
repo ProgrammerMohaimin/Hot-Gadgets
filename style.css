@@ -17,6 +17,9 @@
 .col-7{
     padding-left: 130px;
 }
+.dotttt-image{
+    margin-left: 20%;
+}
 .buy-now-button{
     border: none;
     padding: 10px 20px;
@@ -51,3 +54,19 @@
 .see-all-link{
     text-decoration: none;
 }
+.catagories{
+    text-align: center;
+    
+}
+.pale-image{
+    width: 100%;
+}
+.categories-border {
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}  
+
+.category-item {
+    padding:  20px 20px;
+} 
